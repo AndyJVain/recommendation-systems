@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Terms</key>
+	<dict>
+		<key>recommendation_systems</key>
+		<dict>
+			<key>Definition</key>
+			<string>Software that helps suggest new content to users, usually based on their existing interests.</string>
+		</dict>
+		<key>collaborative_filtering</key>
+		<dict>
+			<key>Definition</key>
+			<string>A method of making predicitons/recommendations for a user by collecting ratings from many other users.</string>
+		</dict>
+		<key>item_based</key>
+		<dict>
+			<key>Definition</key>
+			<string>A type of collaborative filering that compares an item to other items.</string>
+		</dict>
+		<key>user_based</key>
+		<dict>
+			<key>Definition</key>
+			<string>A type of collaborative filering that compares a user to other users.</string>
+		</dict>
+	</dict>
+</dict>
+</plist>
